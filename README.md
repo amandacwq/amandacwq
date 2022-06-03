@@ -1,8 +1,6 @@
 ### Hi there :penguin: I'm Amanda!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandacwq&layout=compact&theme=github_dark&hide_border=true)](https://github.com/amandacwq)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandacwq)](https://github.com/amandacwq/github-readme-stats)
+![Amanda's GitHub stats](https://github-readme-stats.vercel.app/api?username=amandacwq&count_private=true)
 
 <h3><b>You can connect with me on:</b></h3>
 <a href="https://www.linkedin.com/in/amanda-cheng-wei-qi/" target="_blank">
